@@ -1,27 +1,25 @@
-Maryna Pavidaika
+###### Maryna Pavidaika
+13th Jan 1998, she/her
 Gdansk, Poland
 Junior Frontend developer
-contacts:
-phone:
-e-mail: marynapavidaika@protonmail.com
-github:
-linkedin:
-
-Summary:
+##### Contacts:
+* phone: +48
+* e-mail: marynapavidaika@protonmail.com
+* github: https://github.com/marynapavidaika
+* linkedin: https://www.linkedin.com/in/maryna-pavidaika-465624231/
+* discord:
+##### Summary:
 I am a dependable and goal-oriented, organised person. I am an inquiring and hard working person as well.
 I love difficult tasks and the most satisfying thing isn`t a solution but a way to solution.
-
-Key Skills:
-HTML5
-CSS, Sass
-JavaScript, ES6
-TypeScript
-Figma
-Git
-
-
-Example of code:
-
+##### Key Skills:
+* HTML5
+* CSS, Sass
+* JavaScript, ES6
+* TypeScript
+* Figma
+* Git
+##### Example of code:
+```
 function getMiddle(s)
 {
   let arr = s.split("");
@@ -37,39 +35,32 @@ function getMiddle(s)
     return midChar = arr[n];
   }
 }
-
-Education:
-"Information resource management"
+```
+##### Education:
+* "Information resource management"
 bachelor`s degree
 2015-2019
 Academy of Public Administration under the aegis of the President of the Republic of Belarus
-
-Stage 0
+#### Courses:
+* Stage 0
 Course "JS/Frontend"
 RS-School
 June 2023 - ...
-
-
-Responsive web-design (completed)
-JavaScript Algorithms and Data Structures (completed)
-Front End Development Libraries (in process)
+* Responsive web-design (completed)
+* JavaScript Algorithms and Data Structures (completed)
+* Front End Development Libraries (in process)
 FreeCodeCamp
-
-
-JavaScript Basics (completed)
+* JavaScript Basics (completed)
 from "UC Davis", Coursera
-
-Job experience:
-
+##### Job experience:
 IT-specialist (LLC "Barmica")
 2018 - 2020
-1) updated the system of authorization
-2) simplified the process of making purchases and thus doubled the number of purchases from the site
-3) established a connection between the site and crm
-4) fixed errors
-
-Languages:
-Russian (native)
-Belorussian (native)
-English (B1)
-Polish (just started learning)
+1. updated the system of authorization
+2. simplified the process of making purchases and thus doubled the number of purchases from the site
+3. established a connection between the site and crm
+4. fixed errors
+##### Languages:
+* Russian (native)
+* Belorussian (native)
+* English (B1)
+* Polish (just started learning)
