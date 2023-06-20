@@ -1,1 +1,1 @@
-# marynapavidaika.github.io
+https://marynapavidaika.github.io/rsschool-cv/cv
